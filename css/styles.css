@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#under-construction {
+    display: block;
+    width: 384px;
+    margin: 50px auto;
+}
+
+p {
+    display: block;
+    text-align: center;
+    margin: 50px auto;
+    font: 20px "Avenir LT Std 35 Light", Abel, Helvetica;
+}
