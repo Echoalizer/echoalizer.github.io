@@ -4,6 +4,10 @@
     font-family: "Trebuchet MS", Verdana, sans-serif;
 }
 
+html {
+    padding: 5%;
+}
+
 .nav-bar li {
     display: inline;
     margin: 20px;
