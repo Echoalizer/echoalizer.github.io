@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/echoalizer.github.io.iml" filepath="$PROJECT_DIR$/.idea/echoalizer.github.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jsGen/.idea/jsGen.iml" filepath="$PROJECT_DIR$/../jsGen/.idea/jsGen.iml" />
     </modules>
   </component>
 </project>
